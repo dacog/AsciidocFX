@@ -3,23 +3,23 @@
 ## Tech Stack
 dacog/AsciidocFX is built on the following main stack:
 
-- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- [Ruby](https://www.ruby-lang.org) – Languages
 - [Java](https://www.java.com) – Languages
-- [Perl](http://www.perl.org/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- [Underscore](http://underscorejs.org/) – Javascript Utilities & Libraries
-- [Socket.IO](http://socket.io/) – Realtime Backend / API
+- [Perl](http://www.perl.org/) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- [Socket.IO](http://socket.io/) – Realtime Backend / API
 - [jOOQ](http://www.jooq.org) – Database Tools
-- [Logback](https://logback.qos.ch/) – Log Management
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
 - [GlassFish](https://glassfish.java.net) – Web Servers
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- [Logback](https://logback.qos.ch/) – Log Management
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Underscore](http://underscorejs.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -29,23 +29,23 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 dacog/AsciidocFX is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1048/perl.png' alt='Perl'/> [Perl](http://www.perl.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1150/underscore-js.png' alt='Underscore'/> [Underscore](http://underscorejs.org/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/1048/perl.png' alt='Perl'/> [Perl](http://www.perl.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/2279/jooq-logo-white-750x750-padded.png' alt='jOOQ'/> [jOOQ](http://www.jooq.org) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='Logback'/> [Logback](https://logback.qos.ch/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
 - <img width='25' height='25' src='https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg' alt='GlassFish'/> [GlassFish](https://glassfish.java.net) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='Logback'/> [Logback](https://logback.qos.ch/) – Log Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/1150/underscore-js.png' alt='Underscore'/> [Underscore](http://underscorejs.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -56,7 +56,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dacog/AsciidocFX](https://github.com/dacog/AsciidocFX)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|44<br/>Tools used|01/24/24 <br/>Report generated|
+|44<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
