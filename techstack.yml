@@ -2,7 +2,7 @@ repo_name: dacog/AsciidocFX
 report_id: a7c3ba6ebf53400c4d06be09aaf09421
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-24T06:39:57+00:00'
+timestamp: '2024-02-29T19:37:30+00:00'
 requested_by: rahmanusta
 provider: github
 branch: master
@@ -119,7 +119,7 @@ tools:
   last_updated_by: Rahman Usta
   last_updated_on: 2015-06-20 17:21:23.000000000 Z
 - name: jOOQ
-  description: 'A light database-mapping software library '
+  description: A light database-mapping software library
   website_url: http://www.jooq.org
   open_source: false
   hosted_saas: false
